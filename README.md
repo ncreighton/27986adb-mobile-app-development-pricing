@@ -1,2 +1,43 @@
-# 27986adb-mobile-app-development-pricing
-mobile development professionals waste hours on starting from a blank document every single time. This fixes that.  Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.  ## What's Included  - Mobile App Development Pricing Calculator And Quote Builder — fully config
+# Mobile App Development Pricing Calculator and Quote Builder
+
+> Template for Mobile Development
+
+mobile development professionals waste hours on starting from a blank document every single time. This fixes that.
+
+Fully editable: every field, color, and section customizable. Professional formatting tested across different screen sizes and printers.
+
+## What's Included
+
+- Mobile App Development Pricing Calculator And Quote Builder — fully...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | ✅ | ✅ |
+| Standard layout | ✅ | ✅ |
+| Premium components | ❌ | ✅ |
+| Custom styling | ❌ | ✅ |
+| Support included | ❌ | ✅ |
+| Regular updates | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/9B6bJ14eP4scaNO8nGcZJ2q)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
